@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/" />
   <Project Path="TrayIconPromoter/TrayIconPromoter.vcxproj" />
 </Solution>
